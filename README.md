@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aanchal Kumari Pani</h1>
-<h3 align="center">Welcome to my GitHub! I'm a passionate **Frontend Developer** crafting engaging, responsive, and accessible web and mobile experiences. I love turning designs into interactive products that users love.  </h3>
+<h6 align="center">Welcome to my GitHub! I'm a passionate **Frontend Developer** crafting engaging, responsive, and accessible web and mobile experiences. I love turning designs into interactive products that users love.  </h6>
 
 - 🌱 I’m currently learning **TypeScript, Next.js, and UX Design**
 - 💬 Ask me about **React, HTML, CSS, JavaScript, and responsive design**
