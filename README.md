@@ -13,29 +13,16 @@
 
 <div align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; width: fit-content; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-  <!-- First Row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html" height="50" class="bounce" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" class="bounce" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" class="bounce" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" class="bounce" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" class="bounce" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" class="bounce" />
-</div>
 
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-5px);
-  }
-}
-.bounce {
-  animation: bounce 1.5s infinite;
-}
-</style>
+
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=html" height="50" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" />
+    <img src="https://skillicons.dev/icons?i=js" height="50" />
+    <img src="https://skillicons.dev/icons?i=ts" height="50" />
+    <img src="https://skillicons.dev/icons?i=react" height="50" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  </div> Give animation in this
 
   <!-- Second Row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
