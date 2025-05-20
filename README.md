@@ -12,7 +12,25 @@
 
 <div align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; width: fit-content; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vscode,figma,git,github" />
+  <!-- First Row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=html" height="50" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" />
+    <img src="https://skillicons.dev/icons?i=js" height="50" />
+    <img src="https://skillicons.dev/icons?i=ts" height="50" />
+    <img src="https://skillicons.dev/icons?i=react" height="50" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  </div>
+
+  <!-- Second Row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+    <img src="https://skillicons.dev/icons?i=figma" height="50" />
+    <img src="https://skillicons.dev/icons?i=git" height="50" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </div>
 
 </div>
 
