@@ -14,15 +14,28 @@
 <div align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; width: fit-content; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
   <!-- First Row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50"/>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" height="50" class="bounce" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" class="bounce" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" class="bounce" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" class="bounce" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" class="bounce" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" class="bounce" />
+</div>
 
+<style>
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+.bounce {
+  animation: bounce 1.5s infinite;
+}
+</style>
 
   <!-- Second Row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
