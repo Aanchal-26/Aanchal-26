@@ -47,6 +47,6 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aanchal-kumari-pani-482988211/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/aanchal-kumari-pani-482988211/" target="Aanchal"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="mailto:paniaanchal16@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
 </p>
