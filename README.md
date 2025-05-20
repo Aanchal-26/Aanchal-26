@@ -34,6 +34,8 @@
   </div>
 
 </div>
+
+---
 ## 📈 Visitor Counter
 
 <p align="center">
